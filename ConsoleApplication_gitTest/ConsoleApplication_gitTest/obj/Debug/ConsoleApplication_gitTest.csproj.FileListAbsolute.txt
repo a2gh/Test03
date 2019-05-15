@@ -4,3 +4,8 @@ C:\Users\Ali Azami\Desktop\TestGit\git04\ConsoleApplication_gitTest\ConsoleAppli
 C:\Users\Ali Azami\Desktop\TestGit\git04\ConsoleApplication_gitTest\ConsoleApplication_gitTest\obj\Debug\ConsoleApplication_gitTest.csprojResolveAssemblyReference.cache
 C:\Users\Ali Azami\Desktop\TestGit\git04\ConsoleApplication_gitTest\ConsoleApplication_gitTest\obj\Debug\ConsoleApplication_gitTest.exe
 C:\Users\Ali Azami\Desktop\TestGit\git04\ConsoleApplication_gitTest\ConsoleApplication_gitTest\obj\Debug\ConsoleApplication_gitTest.pdb
+C:\Users\Ali Azami\Desktop\New folder (2)\ConsoleApplication_gitTest\ConsoleApplication_gitTest\bin\Debug\ConsoleApplication_gitTest.exe.config
+C:\Users\Ali Azami\Desktop\New folder (2)\ConsoleApplication_gitTest\ConsoleApplication_gitTest\obj\Debug\ConsoleApplication_gitTest.exe
+C:\Users\Ali Azami\Desktop\New folder (2)\ConsoleApplication_gitTest\ConsoleApplication_gitTest\obj\Debug\ConsoleApplication_gitTest.pdb
+C:\Users\Ali Azami\Desktop\New folder (2)\ConsoleApplication_gitTest\ConsoleApplication_gitTest\bin\Debug\ConsoleApplication_gitTest.exe
+C:\Users\Ali Azami\Desktop\New folder (2)\ConsoleApplication_gitTest\ConsoleApplication_gitTest\bin\Debug\ConsoleApplication_gitTest.pdb

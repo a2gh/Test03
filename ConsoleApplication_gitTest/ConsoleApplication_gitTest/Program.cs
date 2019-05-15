@@ -11,6 +11,7 @@ namespace ConsoleApplication_gitTest
         static void Main(string[] args)
         {
             Console.WriteLine("GitTest 01");
+            Console.WriteLine("GitTest 02");
 
             Console.ReadKey();
         }
