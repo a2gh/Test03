@@ -12,6 +12,7 @@ namespace ConsoleApplication_gitTest
         {
             Console.WriteLine("GitTest 01");
             Console.WriteLine("GitTest 02");
+            Console.WriteLine("GitTest 03");
 
             Console.ReadKey();
         }
